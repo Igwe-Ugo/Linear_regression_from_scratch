@@ -105,12 +105,12 @@ Predicted vs actual scatter plot and cost curve showing gradient descent converg
 ## 📚 References
 
 * [Scikit-Learn Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
-* Andrew Ng’s Machine Learning course
+* [Andrew Ng’s Machine Learning course] (https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)
 * California Housing Dataset (`sklearn.datasets.fetch_california_housing`)
 
 ---
 
 ## ✍️ Author
 
-Developed by **Igwe Ugochukwu Edwin (https://github.com/Igwe-Ugo)** — as part of my journey to deeply understand **Machine Learning fundamentals by building models from scratch**.
+Developed by ** [Igwe Ugochukwu Edwin] (https://github.com/Igwe-Ugo)** — as part of my journey to deeply understand **Machine Learning fundamentals by building models from scratch**.
 
